@@ -1,0 +1,53 @@
+body{
+    text-align:center;
+    background-image: url("../img/trv.webp");
+    background-size: cover;
+    font-family: "Orbitron", serif;
+}
+
+header{
+    color:white;
+    background-color:rgba(89, 140, 227, 0.8);
+    padding:20px;
+    margin-bottom:15px;
+    border-top-left-radius:25px;
+    border-top-right-radius:25px;
+    border-bottom-left-radius:25px;
+    border-bottom-right-radius:25px;
+}
+
+#main {
+    background-color:rgba(89, 140, 227, 0.8);
+    color: white;
+    font-size: 1.5rem;    
+    padding: 20px;
+    font-weight:bold;
+    border-top-left-radius:25px;
+    border-top-right-radius:25px;
+    border-bottom-left-radius:25px;
+    border-bottom-right-radius:25px;
+}
+
+#feedback {
+    padding: 30px;
+    background-color: white;
+    color: black;
+    margin: 10px;
+    font-weight:bold;
+    border-top-left-radius:25px;
+    border-top-right-radius:25px;
+    border-bottom-left-radius:25px;
+    border-bottom-right-radius:25px;
+}
+
+#wl
+{
+    color: salmon;
+    font-weight:bold;
+}
+
+#attemptsLeft
+{
+    color:yellow;
+    font-weight:bold;
+}
